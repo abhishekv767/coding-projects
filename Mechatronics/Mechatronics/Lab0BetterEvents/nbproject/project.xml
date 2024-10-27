@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://www.netbeans.org/ns/project/1">
+    <type>com.microchip.mplab.nbide.embedded.makeproject</type>
+    <configuration>
+        <data xmlns="http://www.netbeans.org/ns/make-project/1">
+            <name>Lab0_BetterEvents</name>
+            <creation-uuid>03d65194-e1e8-4c64-9b9f-d9fc0155bcff</creation-uuid>
+            <make-project-type>0</make-project-type>
+            <c-extensions>c</c-extensions>
+            <cpp-extensions/>
+            <header-extensions>h</header-extensions>
+            <asminc-extensions/>
+            <sourceEncoding>ISO-8859-1</sourceEncoding>
+            <make-dep-projects/>
+            <sourceRootList>
+                <sourceRootElem>C:\Users\19722\Desktop\Mechatronics\ECE118\include</sourceRootElem>
+                <sourceRootElem>C:\Users\19722\Desktop\Mechatronics\Lab0BetterEvents</sourceRootElem>
+                <sourceRootElem>C:\Users\19722\Desktop\Mechatronics\ECE118\src</sourceRootElem>
+                <sourceRootElem>C:\Users\19722\Desktop\Mechatronics\ECE118\templates</sourceRootElem>
+            </sourceRootList>
+            <confList>
+                <confElem>
+                    <name>default</name>
+                    <type>2</type>
+                </confElem>
+            </confList>
+            <formatting>
+                <project-formatting-style>false</project-formatting-style>
+            </formatting>
+        </data>
+    </configuration>
+</project>

@@ -1,0 +1,18 @@
+#-----------------------------------------------------------
+# Vivado v2019.1 (64-bit)
+# SW Build 2552052 on Fri May 24 14:49:42 MDT 2019
+# IP Build 2548770 on Fri May 24 18:01:18 MDT 2019
+# Start of session at: Sat May 27 18:52:25 2023
+# Process ID: 15500
+# Current directory: C:/Users/19722/Desktop/NONAPPFILE/School/UCSC Classes/w23 logic design/project_6
+# Command line: vivado.exe -gui_launcher_event rodinguilauncherevent7632 C:\Users\19722\Desktop\NONAPPFILE\School\UCSC Classes\w23 logic design\project_6\project_6.xpr
+# Log file: C:/Users/19722/Desktop/NONAPPFILE/School/UCSC Classes/w23 logic design/project_6/vivado.log
+# Journal file: C:/Users/19722/Desktop/NONAPPFILE/School/UCSC Classes/w23 logic design/project_6\vivado.jou
+#-----------------------------------------------------------
+start_gui
+open_project {C:/Users/19722/Desktop/NONAPPFILE/School/UCSC Classes/w23 logic design/project_6/project_6.xpr}
+INFO: [Project 1-313] Project file moved from 'C:/Users/19722/Desktop/project_6' since last save.
+SScanning sources...Finished scanning sources
+IINFO: [IP_Flow 19-234] Refreshing IP repositories
+INFO: [IP_Flow 19-1704] No user IP repositories specifiedIINFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'.oopen_project: Time (s): cpu = 00:00:18 ; elapsed = 00:00:11 . Memory (MB): peak = 729.270 ; gain = 101.953update_compile_order -fileset sources_1
+

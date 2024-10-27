@@ -1,0 +1,16 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../project_2.srcs/sources_1/new/Add8.v" \
+"../../../../project_2.srcs/sources_1/new/FullAdder.v" \
+"../../../../project_2.srcs/sources_1/new/Mux2to1.v" \
+"../../../../project_2.srcs/sources_1/new/SignChanger.v" \
+"../../../../project_2.srcs/sources_1/new/Top_Module.v" \
+"../../../../project_2.srcs/sources_1/new/hex7seg.v" \
+"../../../../project_2.srcs/sources_1/imports/Desktop/lab2_digsel.v" \
+"../../../../project_2.srcs/sim_1/imports/Desktop/test_signchanger.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

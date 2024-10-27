@@ -1,0 +1,7 @@
+Running: xsim.dir/Score_Counter_behav/xsimk.exe -simmode gui -wdb Score_Counter_behav.wdb -simrunnum 0 -socket 56764
+Design successfully loaded
+Design Loading Memory Usage: 6408 KB (Peak: 6408 KB)
+Design Loading CPU Usage: 15 ms
+Simulation completed
+Simulation Memory Usage: 7076 KB (Peak: 7076 KB)
+Simulation CPU Usage: 77 ms

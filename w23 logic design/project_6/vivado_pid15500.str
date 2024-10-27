@@ -1,0 +1,173 @@
+/*
+
+Xilinx Vivado v2019.1 (64-bit) [Major: 2019, Minor: 1]
+SW Build: 2552052 on Fri May 24 14:49:42 MDT 2019
+IP Build: 2548770 on Fri May 24 18:01:18 MDT 2019
+
+Process ID (PID): 15500
+License: Customer
+
+Current time: 	Sat May 27 18:53:00 PDT 2023
+Time zone: 	Pacific Standard Time (America/Los_Angeles)
+
+OS: Windows 10
+OS Version: 10.0
+OS Architecture: amd64
+Available processors (cores): 12
+
+Screen size: 1920x1080
+Screen resolution (DPI): 100
+Available screens: 1
+Available disk space: 54 GB
+Default font: family=Segoe UI,name=Segoe UI,style=plain,size=15
+
+Java version: 	9.0.4 64-bit
+Java home: 	C:/Xilinx/Vivado/2019.1/tps/win64/jre9.0.4
+Java executable location: 	C:/Xilinx/Vivado/2019.1/tps/win64/jre9.0.4/bin/java.exe
+Java initial memory (-Xms): 	128 MB
+Java maximum memory (-Xmx):	 3 GB
+
+
+User name: 	19722
+User home directory: C:/Users/19722
+User working directory: C:/Users/19722/Desktop/NONAPPFILE/School/UCSC Classes/w23 logic design/project_6
+User country: 	US
+User language: 	en
+User locale: 	en_US
+
+RDI_BASEROOT: C:/Xilinx/Vivado
+HDI_APPROOT: C:/Xilinx/Vivado/2019.1
+RDI_DATADIR: C:/Xilinx/Vivado/2019.1/data
+RDI_BINDIR: C:/Xilinx/Vivado/2019.1/bin
+
+Vivado preferences file location: C:/Users/19722/AppData/Roaming/Xilinx/Vivado/2019.1/vivado.xml
+Vivado preferences directory: C:/Users/19722/AppData/Roaming/Xilinx/Vivado/2019.1/
+Vivado layouts directory: C:/Users/19722/AppData/Roaming/Xilinx/Vivado/2019.1/layouts
+PlanAhead jar file location: 	C:/Xilinx/Vivado/2019.1/lib/classes/planAhead.jar
+Vivado log file location: 	C:/Users/19722/Desktop/NONAPPFILE/School/UCSC Classes/w23 logic design/project_6/vivado.log
+Vivado journal file location: 	C:/Users/19722/Desktop/NONAPPFILE/School/UCSC Classes/w23 logic design/project_6/vivado.jou
+Engine tmp dir: 	C:/Users/19722/Desktop/NONAPPFILE/School/UCSC Classes/w23 logic design/project_6/.Xil/Vivado-15500-Abs-PC
+
+Xilinx Environment Variables
+----------------------------
+XILINX: C:/Xilinx/Vivado/2019.1/ids_lite/ISE
+XILINX_DSP: C:/Xilinx/Vivado/2019.1/ids_lite/ISE
+XILINX_PLANAHEAD: C:/Xilinx/Vivado/2019.1
+XILINX_SDK: C:/Xilinx/SDK/2019.1
+XILINX_VIVADO: C:/Xilinx/Vivado/2019.1
+XILINX_VIVADO_HLS: C:/Xilinx/Vivado/2019.1
+
+
+GUI allocated memory:	158 MB
+GUI max memory:		3,072 MB
+Engine allocated memory: 611 MB
+
+Copyright 1986-2019 Xilinx, Inc. All Rights Reserved.
+
+*/
+
+// TclEventType: START_GUI
+// Tcl Message: start_gui 
+// TclEventType: PROJECT_OPEN_DIALOG
+// by (cl):  Open Project : addNotify
+// Opening Vivado Project: C:\Users\19722\Desktop\NONAPPFILE\School\UCSC Classes\w23 logic design\project_6\project_6.xpr. Version: Vivado v2019.1 
+// TclEventType: DEBUG_PROBE_SET_CHANGE
+// Tcl Message: open_project {C:/Users/19722/Desktop/NONAPPFILE/School/UCSC Classes/w23 logic design/project_6/project_6.xpr} 
+// TclEventType: MSGMGR_MOVEMSG
+// TclEventType: FILE_SET_NEW
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_COMPLETED
+// TclEventType: RUN_STATUS_CHANGE
+// TclEventType: RUN_CURRENT
+// TclEventType: PROJECT_DASHBOARD_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_DASHBOARD_GADGET_NEW
+// TclEventType: PROJECT_DASHBOARD_GADGET_CHANGE
+// TclEventType: PROJECT_NEW
+// Tcl Message: open_project {C:/Users/19722/Desktop/NONAPPFILE/School/UCSC Classes/w23 logic design/project_6/project_6.xpr} 
+// Tcl Message: INFO: [Project 1-313] Project file moved from 'C:/Users/19722/Desktop/project_6' since last save. 
+// Tcl Message: Scanning sources... Finished scanning sources 
+// Tcl Message: INFO: [IP_Flow 19-234] Refreshing IP repositories INFO: [IP_Flow 19-1704] No user IP repositories specified 
+// HMemoryUtils.trashcanNow. Engine heap size: 623 MB. GUI used memory: 51 MB. Current time: 5/27/23, 6:53:02 PM PDT
+// Tcl Message: INFO: [IP_Flow 19-2313] Loaded Vivado IP repository 'C:/Xilinx/Vivado/2019.1/data/ip'. 
+// TclEventType: PROJECT_NEW
+// [GUI Memory]: 71 MB (+71557kb) [00:00:21]
+// [Engine Memory]: 646 MB (+526064kb) [00:00:21]
+// [GUI Memory]: 85 MB (+11478kb) [00:00:22]
+// [GUI Memory]: 108 MB (+19632kb) [00:00:22]
+// WARNING: HEventQueue.dispatchEvent() is taking  5578 ms.
+// [Engine Memory]: 711 MB (+34221kb) [00:00:25]
+// WARNING: HEventQueue.dispatchEvent() is taking  1003 ms.
+// Tcl Message: open_project: Time (s): cpu = 00:00:17 ; elapsed = 00:00:10 . Memory (MB): peak = 739.539 ; gain = 102.082 
+// Project name: project_6; location: C:/Users/19722/Desktop/NONAPPFILE/School/UCSC Classes/w23 logic design/project_6; part: xc7a35tcpg236-1
+dismissDialog("Open Project"); // by (cl)
+// [GUI Memory]: 116 MB (+2205kb) [00:00:29]
+// Tcl Message: update_compile_order -fileset sources_1 
+// Elapsed time: 17 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, TopLevel (TopLevel.v)]", 1, true); // B (F, cl) - Node
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, TopLevel (TopLevel.v), not_so_slow : labVGA_clks (labVGA_clks.v)]", 2, true, false, false, false, false, true); // B (F, cl) - Double Click - Node
+// Elapsed time: 44 seconds
+selectCodeEditor("TopLevel.v", 36, 119); // cl (w, cl)
+selectCodeEditor("TopLevel.v", 646, 305); // cl (w, cl)
+// Elapsed time: 68 seconds
+selectCodeEditor("TopLevel.v", 29, 121); // cl (w, cl)
+selectCodeEditor("TopLevel.v", 632, 298); // cl (w, cl)
+// Elapsed time: 13 seconds
+selectCodeEditor("TopLevel.v", 32, 118); // cl (w, cl)
+typeControlKey((HResource) null, "TopLevel.v", 'c'); // cl (w, cl)
+typeControlKey((HResource) null, "TopLevel.v", 'c'); // cl (w, cl)
+selectCodeEditor("TopLevel.v", 645, 301, false, true, false, false, false); // cl (w, cl) - Control Key
+// HOptionPane Error: 'The copy failed. The system clipboard is not available. See if other programs are accessing it or try again later. (Copy Error)'
+typeControlKey((HResource) null, "TopLevel.v", 'c'); // cl (w, cl)
+selectCodeEditor("TopLevel.v", 36, 116); // cl (w, cl)
+typeControlKey((HResource) null, "TopLevel.v", 'c'); // cl (w, cl)
+selectCodeEditor("TopLevel.v", 649, 306); // cl (w, cl)
+// Elapsed time: 830 seconds
+setText(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "hsyn"); // l (aT, cl)
+selectTab(PAResourceEtoH.FileSetView_TABBED_PANE, (HResource) null, "Libraries", 1); // i (N, cl)
+// Elapsed time: 284 seconds
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Verilog, xil_defaultlib, TimeCounter.v]", 8, false); // B (F, cl)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Verilog, xil_defaultlib, TimeCounter.v]", 8, false, false, false, false, false, true); // B (F, cl) - Double Click
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Verilog, xil_defaultlib, countU16DL.v]", 9, false); // B (F, cl)
+selectTree(PAResourceEtoH.FileSetPanel_FILE_SET_PANEL_TREE, "[root, Design Sources, Verilog, xil_defaultlib, countU16DL.v]", 9, false, false, false, false, false, true); // B (F, cl) - Double Click
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "TimeCounter.v", 2); // k (j, cl)
+selectTab("PlanAheadTabBaseWorkspace_JideTabbedPane", (HResource) null, "TopLevel.v", 1); // k (j, cl)
+// Elapsed time: 214 seconds
+setText(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "pond", true); // l (aT, cl)
+// Elapsed time: 215 seconds
+setText(RDIResource.HCodeEditor_SEARCH_TEXT_COMBO_BOX, "frame"); // l (aT, cl)
+// HMemoryUtils.trashcanNow. Engine heap size: 719 MB. GUI used memory: 60 MB. Current time: 5/27/23, 7:23:02 PM PDT
+// Elapsed time: 298 seconds
+selectCodeEditor("TopLevel.v", 365, 133); // cl (w, cl)
+selectCodeEditor("TopLevel.v", 365, 133, false, false, false, false, true); // cl (w, cl) - Double Click
+selectCodeEditor("TopLevel.v", 365, 133); // cl (w, cl)
+selectCodeEditor("TopLevel.v", 365, 133); // cl (w, cl)
+// Elapsed time: 13 seconds
+selectCodeEditor("TopLevel.v", 365, 133); // cl (w, cl)
+selectCodeEditor("TopLevel.v", 365, 133, false, false, false, false, true); // cl (w, cl) - Double Click
+selectCodeEditor("TopLevel.v", 365, 133); // cl (w, cl)
+typeControlKey((HResource) null, "TopLevel.v", 'c'); // cl (w, cl)
+selectCodeEditor("TopLevel.v", 243, 147); // cl (w, cl)
+// Elapsed time: 351 seconds
+selectCodeEditor("TopLevel.v", 594, 349); // cl (w, cl)
+// Elapsed time: 163 seconds
+selectCodeEditor("TopLevel.v", 377, 348); // cl (w, cl)
+selectCodeEditor("TopLevel.v", 366, 350); // cl (w, cl)
+// TclEventType: DG_GRAPH_STALE
+// TclEventType: FILE_SET_CHANGE
+// HMemoryUtils.trashcanNow. Engine heap size: 719 MB. GUI used memory: 56 MB. Current time: 5/27/23, 7:53:03 PM PDT
+// Elapsed time: 2063 seconds
+selectCodeEditor("TopLevel.v", 925, 446); // cl (w, cl)
+// Elapsed time: 436 seconds
+selectCodeEditor("TopLevel.v", 293, 326); // cl (w, cl)
+typeControlKey((HResource) null, "TopLevel.v", 'c'); // cl (w, cl)

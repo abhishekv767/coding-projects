@@ -1,0 +1,13 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/19722/Desktop/project_2/project_2.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/19722/Desktop/project_2/project_2.srcs/sim_1/imports/Desktop/test_signchanger.v,1674605246,verilog,,,,test_signchanger,,,,,,,,
+C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/imports/Desktop/lab2_digsel.v,1674162866,verilog,,C:/Users/19722/Desktop/project_2/project_2.srcs/sim_1/imports/Desktop/test_signchanger.v,,CB4CE_MXILINX_clkcntrl4;FTCE_MXILINX_clkcntrl4;clk_wiz_0;clkcntrl4;lab2_digsel,,,,,,,,
+C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/new/Add8.v,1674455570,verilog,,C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/new/FullAdder.v,,Adder8,,,,,,,,
+C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/new/FullAdder.v,1674604278,verilog,,C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/new/Mux2to1.v,,FullAdder,,,,,,,,
+C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/new/Mux2to1.v,1674162239,verilog,,C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/new/SignChanger.v,,Mux2to1,,,,,,,,
+C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/new/SignChanger.v,1674603613,verilog,,C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/new/Top_Module.v,,SignChanger,,,,,,,,
+C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/new/Top_Module.v,1674458242,verilog,,C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/new/hex7seg.v,,Top_Module,,,,,,,,
+C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/new/hex7seg.v,1674458054,verilog,,C:/Users/19722/Desktop/project_2/project_2.srcs/sources_1/imports/Desktop/lab2_digsel.v,,hex7seg,,,,,,,,

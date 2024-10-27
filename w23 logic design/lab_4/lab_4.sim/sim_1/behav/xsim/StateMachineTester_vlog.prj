@@ -1,0 +1,26 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../lab_4.srcs/sources_1/new/Adder8.v" \
+"../../../../lab_4.srcs/sources_1/new/Decoder.v" \
+"../../../../lab_4.srcs/sources_1/new/FullAdder.v" \
+"../../../../lab_4.srcs/sources_1/new/LSFR.v" \
+"../../../../lab_4.srcs/sources_1/new/Mux2to1.v" \
+"../../../../lab_4.srcs/sources_1/new/RingCounter.v" \
+"../../../../lab_4.srcs/sources_1/new/Selector.v" \
+"../../../../lab_4.srcs/sources_1/new/SignChanger.v" \
+"../../../../lab_4.srcs/sources_1/new/StateMachine.v" \
+"../../../../lab_4.srcs/sources_1/new/Target.v" \
+"../../../../lab_4.srcs/sources_1/new/Time_Counter.v" \
+"../../../../lab_4.srcs/sources_1/new/TopLevel.v" \
+"../../../../lab_4.srcs/sources_1/new/count4bit.v" \
+"../../../../lab_4.srcs/sources_1/new/countUD4L.v" \
+"../../../../lab_4.srcs/sources_1/new/hex7seg.v" \
+"../../../../lab_4.srcs/sources_1/new/inputDecoder2.v" \
+"../../../../lab_4.srcs/sources_1/imports/Desktop/qsec_clks.v" \
+"../../../../lab_4.srcs/sim_1/imports/Desktop/testTC.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

@@ -1,0 +1,26 @@
+0.6
+2019.1
+May 24 2019
+15:06:07
+C:/Users/19722/Desktop/lab_4/lab_4.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sim_1/imports/Desktop/testTC.v,1676943734,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sim_1/new/StateMachineTest.v,,TopTB,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sim_1/new/StateMachineTest.v,1676975000,verilog,,,,StateMachineTest,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/imports/Desktop/qsec_clks.v,1675907725,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/TopLevel.v,,clk_wiz_0;clkcntrl4;count4_MSCLK_clkcntrl4;qsec_clks,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Adder8.v,1676500678,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Decoder.v,,Adder8bit,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Decoder.v,1677024916,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/FullAdder.v,,Decoder,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/FullAdder.v,1676500939,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/LSFR.v,,FullAdder,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/LSFR.v,1676596262,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Mux2to1.v,,LSFR,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Mux2to1.v,1676500731,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/RingCounter.v,,m2_1x8,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/RingCounter.v,1675911108,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Selector.v,,Ring_Counter,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Score_Counter.v,1676669641,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sim_1/imports/Desktop/testTC.v,,Score_Counter,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Selector.v,1676500932,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/SignChanger.v,,Selector,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/SignChanger.v,1676545064,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/StateMachine.v,,SignChanger,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/StateMachine.v,1677074063,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Target.v,,SMachine_Logic;State_Machine,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Target.v,1676504199,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Time_Counter.v,,Target,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Time_Counter.v,1676934740,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/count4bit.v,,Time_Counter,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/TopLevel.v,1676936485,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/m8_1.v,,TopLevel,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/count4bit.v,1676934759,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/countUD4L.v,,count4bit,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/countUD4L.v,1677057947,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/hex7seg.v,,countUD4L,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/hex7seg.v,1676622263,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/inputDecoder2.v,,hex7seg,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/inputDecoder2.v,1676503324,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/imports/Desktop/qsec_clks.v,,inputDecoder2,,,,,,,,
+C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/m8_1.v,1676604590,verilog,,C:/Users/19722/Desktop/lab_4/lab_4.srcs/sources_1/new/Score_Counter.v,,m8_1,,,,,,,,
